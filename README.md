@@ -1,7 +1,7 @@
 # Professional_Space
 This is a repository to feature my professional accomplishments, portfolio contents, resume, and other professional accomplishments
 
-![headshot](Professional_Space/LinkedIn%20Profile%20Picture.jpg)
+![headshot](https://github.com/laurieward333/Professional_Space/blob/main/LinkedIn%20Profile%20Picture.jpg)
 
 I challenge myself to develop curriculum that reaches all levels of learners and busy professionals in the academic and corporate environments. I have experience designing curriculum at the secondary and collegiate levels as well as in the academic and profressional sectors. I continue to grow in my field by giving presentation on curriculum and training at the industry, local, and national levels, continuing research and staying up to date with education and curriculum trends.
 
