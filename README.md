@@ -14,3 +14,8 @@ I challenge myself to develop curriculum that reaches all levels of learners and
 [**Author Website**](https://store.bookbaby.com/profile/LKWard)
 
 [**YouTube**](https://www.youtube.com/channel/UCyKRYDndOS6lVgMwnX4ls1g/featured) *This channel is in the Pre-Launch phase at this time*
+
+## Resume ##
+
+[Professional Resume](https://github.com/laurieward333/Professional_Space/blob/main/Laurie%20Kay%20Ward%20CV.docx)
+
